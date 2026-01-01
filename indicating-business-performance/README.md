@@ -30,12 +30,21 @@ The dashboard highlights key business KPIs, sales trends, marketing expenditure,
 - Helps evaluate effectiveness of advertising campaigns
 
 ---
+## 🔍 Key Insights
+
+- Total Sales reached 1.04M over the analyzed period
+- Marketing spend increased significantly in July, correlating with higher sales
+- East and North regions showed strong growth compared to others
+- Sales Team A contributed the highest increase in July
+
 
 ## 🖼 Dashboard Screenshots
 
-### Full Dashboard
+## 📊 Dashboard Preview
 
----
+Below is the Power BI dashboard created to analyze sales and marketing performance:
+
+![Indicating Business Performance Dashboard](screenshots/Indicating_Business_Performance_Sales_Demo.png)
 
 ## 🛠 Tools Used
 - Power BI Desktop
