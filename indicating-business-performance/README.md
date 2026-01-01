@@ -46,6 +46,14 @@ Below is the Power BI dashboard created to analyze sales and marketing performan
 
 ![Indicating Business Performance Dashboard](screenshots/Indicating_Business_Performance_Sales_Demo.png)
 
+---
+## 📄 Detailed Analysis Report
+
+A detailed written analysis explaining KPIs, sales trends, marketing spend, and regional performance is available here:
+
+➡️ [View Analysis Report](Indicating_Business_Performance_Analysis.docx)
+
+
 ## 🛠 Tools Used
 - Power BI Desktop
 - Sample Adventure Works Dataset
